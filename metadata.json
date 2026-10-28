@@ -1,0 +1,6 @@
+{
+  "name": "PoultrySense - IoT & AI Farm Monitor",
+  "description": "Smart poultry farm IoT environmental telemetry, automated shed control, AI disease risk detection, and academic project suite for KIT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
